@@ -1,5 +1,4 @@
 # EDA_Zomato
-Summary:
 
 The EDA of the Zomato orders dataset was conducted to extract valuable insights pertaining to order information within the Zomato platform. This dataset encompasses a wide range of details including restaurant information, locations, currency, price range, user ratings, and votes. The analysis was executed in Python, leveraging essential data analysis libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
 
